@@ -1,3 +1,6 @@
+# Apache 2 licnce 
+##Richard Wadsworth May 2025
+
 import tkinter as tk
 from tkinter import messagebox, filedialog
 import threading
